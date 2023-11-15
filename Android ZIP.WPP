@@ -1,0 +1,105 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Android ZIP
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Application Android
+    internal_properties : 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
+    configuration_id : 13815401349517923565
+    type : 15
+    generation_directory : .\Exe\Application Android
+    version : {}
+    language : 1
+ elements :
+  identifier : 0x4f19401e0002d598
+  elements :
+   -
+     name : FEN_SMARTPHONE_SELECTEURREP
+     identifier : 0x4f199fae02d01f6b
+     internal_properties : CAAAAAgAAAAdeXUplsNrdMMDSTfeCwUC5aTMZNR27FWqQLtAHRL4KNhoKHuEfJLerJYA+Lgo0MAICA==
+     physical_name : .\FEN_SMARTPHONE_SELECTEURREP.wpw
+     type : 2
+   -
+     name : FEN_SMARTPHONE_MAIN
+     identifier : 0x4f1953a9001a2bb4
+     internal_properties : CAAAAAgAAAAGDG6ycS6GqbbmKBLpD/JDWg1ZiUX/kNJKrAk6FRr6NsJIcpFxT289z0mzDZVLN6kTEw==
+     physical_name : .\FEN_SMARTPHONE_MAIN.wpw
+     type : 2
+   -
+     name : FEN_JAUGE_EXTRACTION
+     identifier : 0x4f19a410033a3c00
+     internal_properties : CAAAAAgAAABu9EZaaRYe0Z4eUNohSTYP0lHp8UHLPtuqIF8sAxz4wHiqyNs5h6f1t2FbpW1jH5F7+w==
+     physical_name : .\FEN_JAUGE_EXTRACTION.wpw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Exe\Archives\Exemple.zip
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 13815401349517923565
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      constant
+      	frZipFichier	= 8
+      	frZipRépertoire	= 4
+      FIN
+      
+      SEPARATEUR est une chaine = (EnModeSimulateur ? "\" sinon "/")
+      
+      // Création du dossier des archives
+      ARCHIVES est une chaine = fRepEnCours + [SEPARATEUR] + "Archives"
+      si fRépertoireExiste(ARCHIVES) = faux ALORS
+      	frepcree(ARCHIVES)
+      FIN
+      
+      si EnModeSimulateur = faux alors
+      	// Extrait l'archive exemple
+      	fExtraitRessource("Exemple.zip", archives)
+      fin
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Application Android
+     identifier : 0x4f19401e0003d605
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
